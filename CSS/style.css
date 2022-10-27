@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Poppins:wght@600&family=Roboto&display=swap');
+@import url("Composants/container.css");
+@import url("Composants/card-octobre.css");
+@import url("Composants/card-novembre.css");
+@import url("Composants/card-décembre.css");
+@import url("Composants/banner.css");
+@import url("Composants/card-2023.css");
+@import url("Composants/btn.en-savoir-plus.css");
+
+body {
+	font-family: 'Lora', serif;
+	background-color: black;
+}
+
+h1, h2, h3, a, p {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 400%;
+}
+
+h2 {
+	font-size: 230%;
+}
